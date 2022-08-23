@@ -1,3 +1,5 @@
 This is my first code file
 
 Welcome
+
+I a Java developer and I am developing a gaming project.
